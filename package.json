@@ -1,0 +1,19 @@
+{
+  "name": "senior-living-gurgaon",
+  "version": "2.0.0",
+  "description": "A comprehensive guide to the 7 best old age homes in Gurgaon for 2025",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "senior living",
+    "old age home",
+    "gurgaon",
+    "assisted living",
+    "elder care"
+  ],
+  "author": "Senior Living Guide",
+  "license": "MIT"
+}
